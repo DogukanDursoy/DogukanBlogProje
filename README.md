@@ -9,4 +9,7 @@ HTML ve CSS kullanarak hazırlandı.
 - images/ → Görseller
 
 ## Vercel link
-https://dogukandursoy.vercel.app/
+[Blog'u Görmek İçin Tıkla](https://dogukandursoy.vercel.app/)
+
+## Geliştirici
+Süleyman Doğukan Dursoy - 2311012016
