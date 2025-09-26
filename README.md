@@ -8,6 +8,5 @@ HTML ve CSS kullanarak hazırlandı.
 - style.css → Tasarım dosyası
 - images/ → Görseller
 
-## Nasıl çalıştırılır
-1. Projeyi indir.
-2. `index.html` dosyasını tarayıcıda aç.
+## Vercell link
+https://dogukandursoy.vercel.app/
