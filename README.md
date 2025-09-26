@@ -8,5 +8,5 @@ HTML ve CSS kullanarak hazırlandı.
 - style.css → Tasarım dosyası
 - images/ → Görseller
 
-## Vercell link
+## Vercel link
 https://dogukandursoy.vercel.app/
