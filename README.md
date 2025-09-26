@@ -5,7 +5,7 @@ HTML ve CSS kullanarak hazırlandı.
 ## İçerik
 - index.html → Ana sayfa
 - about.html → Hakkımda sayfası
-- style.css → Tasarım dosyası
+- hstyle.css → Tasarım dosyası
 - images/ → Görseller
 
 ## Vercel link
